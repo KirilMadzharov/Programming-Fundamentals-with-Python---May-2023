@@ -1,5 +1,19 @@
 # Programming-Fundamentals-with-Python-May-2023
 
+In the repository "Programming-Basics-with-Python-February-2023" you will find the following folders and information:
+
+1. Basic Syntax, Conditional Statements and Loops
+2. Data Types and Variables
+3. List Basics
+4. Functions
+5. List Advanced
+6. Regular Mid Exam
+7. Objects and Classes
+8. Dictionaries
+9. Text Processing
+10. Regular Expressions
+11. Regular Final Exam
+12. Official Certification issued by Software University. The authenticity of this document can be confirmed using the QR code located at the bottom of the certificate
 
 The "Programming Fundamentals" course is an integral step in SoftUni’s in-house program for molding proficient software engineers. 
 It ventures deeper into the core principles of programming, enhancing the foundational knowledge acquired from the "Programming Basics" course. 
