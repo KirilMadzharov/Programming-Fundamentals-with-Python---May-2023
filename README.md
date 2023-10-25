@@ -14,8 +14,12 @@ In the repository "Programming-Basics-with-Python-February-2023" you will find t
 10. Regular Expressions
 11. Regular Final Exam
 
-You will also find the official certification issued by Software University. 
-The authenticity of this document can be confirmed using the QR code located at the bottom of the certificate.
+Within the folders, you will find detailed documentation and breakdown of the content I've studied each week.
+Each week's folder presents the topics I covered, the depth of study undertaken, comprehensive details about 
+the challenges addressed, and insights from my course progression.
+
+You will also find the official certification issued by Software University. The authenticity of this document
+can be confirmed using the QR code located at the bottom of the certificate.
 
 **More about Programming Fundamentals:**
 
