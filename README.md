@@ -15,7 +15,7 @@ In the repository "Programming-Basics-with-Python-February-2023" you will find t
 11. Regular Final Exam
 
 You will also find the official Certification issued by Software University. 
-The authenticity of this document can be confirmed using the QR code located at the bottom of the certificate
+The authenticity of this document can be confirmed using the QR code located at the bottom of the certificate.
 
 **More about Programming Fundamentals:**
 
