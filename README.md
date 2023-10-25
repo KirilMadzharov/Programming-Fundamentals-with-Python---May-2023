@@ -74,3 +74,4 @@ For novices, the free "Programming Basics" course using Python is recommended as
 The "Programming Fundamentals" course paves the way for learners to transcend from basic programming concepts to a more sophisticated understanding,
 laying a robust foundation for future professional modules. It’s an amalgamation of programming concepts, data structures, web development essentials, 
 and advanced topics, all tailored to cultivate the next generation of software developers.
+
