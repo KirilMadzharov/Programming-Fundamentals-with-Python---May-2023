@@ -13,7 +13,11 @@ In the repository "Programming-Basics-with-Python-February-2023" you will find t
 9. Text Processing
 10. Regular Expressions
 11. Regular Final Exam
-12. Official Certification issued by Software University. The authenticity of this document can be confirmed using the QR code located at the bottom of the certificate
+
+You will also find the official Certification issued by Software University. 
+The authenticity of this document can be confirmed using the QR code located at the bottom of the certificate
+
+**More about Programming Fundamentals:**
 
 The "Programming Fundamentals" course is an integral step in SoftUni’s in-house program for molding proficient software engineers. 
 It ventures deeper into the core principles of programming, enhancing the foundational knowledge acquired from the "Programming Basics" course. 
