@@ -100,7 +100,8 @@ For novices, the free "Programming Basics" course using Python is recommended as
   **Examinations and Preparations**:
   
   
-  Exam Preparation (2 sessions) 
+  Exam Preparation (2 sessions):
+  
   Regular Mid Exam  
   Regular Final Exam
   
