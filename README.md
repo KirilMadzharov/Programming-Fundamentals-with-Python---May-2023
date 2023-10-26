@@ -18,8 +18,9 @@ Within the folders, you will find detailed documentation and breakdown of the co
 Each week's folder presents the topics I covered, the depth of study undertaken, comprehensive details about 
 the challenges addressed, and insights from my course progression.
 
-You will also find the official certification issued by Software University. The authenticity of this document
-can be confirmed using the QR code located at the bottom of the certificate.
+You can find "Programming Fundamentals with Python - May 2023 - Certificate" file 
+located at the bottom of this repository. Software University has issued this official certification, 
+and its legitimacy can be verified by scanning the QR code present at the certificate's lower left section.
 
 **More about Programming Fundamentals:**
 
