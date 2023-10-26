@@ -14,11 +14,7 @@ In the repository "Programming-Basics-with-Python-February-2023" you will find t
 10. Regular Expressions
 11. Regular Final Exam
 
-Within the folders, you will find detailed documentation and breakdown of the content I've studied each week.
-Each week's folder presents the topics I covered, the depth of study undertaken, comprehensive details about 
-the challenges addressed, and insights from my course progression.
-
-You can find "Programming Fundamentals with Python - May 2023 - Certificate" file 
+Please refer to the "Programming Fundamentals with Python - May 2023 - Certificate" file 
 located at the bottom of this repository. Software University has issued this official certification, 
 and its legitimacy can be verified by scanning the QR code present at the certificate's lower left section.
 
