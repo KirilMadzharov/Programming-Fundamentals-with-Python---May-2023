@@ -64,65 +64,44 @@ For novices, the free "Programming Basics" course using Python is recommended as
   **Data Structures**:
   
   Lists Basics
-  
   Exercise: Lists Basics
-  
   Lists Advanced
-  
-  Exercise: Lists Advanced
-  
-  Objects and Classes
-  
-  Exercise: Objects and Classes
-  
-  Dictionaries
-  
-  Exercise: Dictionaries
-  
-  Text Processing
-  
+  Exercise: Lists Advanced  
+  Objects and Classes 
+  Exercise: Objects and Classes  
+  Dictionaries  
+  Exercise: Dictionaries  
+  Text Processing  
   Exercise: Text Processing
   
   
 **Web Development Basics:**
 
 
-  HTML & CSS Basics
-  
-  Database Basics
-  
-  Basic Web Project
-  
+  HTML & CSS Basics  
+  Database Basics  
+  Basic Web Project  
   QA Introduction
 
   
   **Advanced Concepts:**
 
   
-  Functions
-  
-  Exercise: Functions
-  
+  Functions  
+  Exercise: Functions  
   Software Development Concepts - Part 1
-
-  Software Development Concepts - Part 2
-  
-  Bitwise Operations
-  
-  Problem Solving
-  
-  Regular Expressions
-  
+  Software Development Concepts - Part 2 
+  Bitwise Operations  
+  Problem Solving 
+  Regular Expressions 
   Exercise: Regular Expressions
   
   
   **Examinations and Preparations**:
   
   
-  Exam Preparation (2 sessions)
-  
-  Regular Mid Exam
-  
+  Exam Preparation (2 sessions) 
+  Regular Mid Exam  
   Regular Final Exam
   
 
