@@ -48,16 +48,11 @@ For novices, the free "Programming Basics" course using Python is recommended as
   
 **Fundamentals:**
 
-  Basic Syntax, Conditional Statements and Loops
-  
-  Exercise: Basic Syntax, Conditional Statements and Loops
-  
-  Data Types and Variables
-  
-  Exercise: Data Types and Variables
-  
-  Git and GitHub
-  
+  Basic Syntax, Conditional Statements and Loops  
+  Exercise: Basic Syntax, Conditional Statements and Loops  
+  Data Types and Variables  
+  Exercise: Data Types and Variables  
+  Git and GitHub  
   HTTP Basics
   
   
@@ -95,15 +90,7 @@ For novices, the free "Programming Basics" course using Python is recommended as
   Problem Solving 
   Regular Expressions 
   Exercise: Regular Expressions
-  
-  
-  **Examinations and Preparations**:
-  
-  
-  Exam Preparation (2 sessions):
-  
-  Regular Mid Exam  
-  Regular Final Exam
+
   
 
 **Conclusion:**
