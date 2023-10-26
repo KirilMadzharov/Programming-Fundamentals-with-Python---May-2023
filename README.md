@@ -35,7 +35,7 @@ the stage for upcoming professional modules.
 **Key Skills Acquired:**
 
 Proficiency with the standard functionalities of the programming language.
-Mastery in analyzing problems and decomposing them into computer-executable steps.
+Mastery in analysing problems and decomposing them into computer-executable steps.
 Capability in handling linear data structures.
 Fundamentals of HTML and CSS.
 Grasping the intricate interplay between diverse IT concepts.
