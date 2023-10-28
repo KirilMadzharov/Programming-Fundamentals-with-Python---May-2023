@@ -1,6 +1,6 @@
 # Programming-Fundamentals-with-Python-May-2023
 
-In the repository "Programming-Basics-with-Python-February-2023" you will find the following folders and information:
+In the repository "Programming-Fundamentals-with-Python-May-2023" you will find the following folders and information:
 
 1. Basic Syntax, Conditional Statements and Loops
 2. Data Types and Variables
